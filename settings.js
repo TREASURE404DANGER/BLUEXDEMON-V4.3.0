@@ -31,7 +31,7 @@ global.newsletterJid = "120363304326105871@newsletter"
 global.newsletterName = "DANGER-BOT"
 global.caption = "𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 DANGER"
 global.ownerName = "TREASURE404DANGER"
-//chat.whatsapp.com/HN10MUmIruNISqt0yG1uRG'
+global.syt = 'https://chat.whatsapp.com/HN10MUmIruNISqt0yG1uRG'
 global.sgc = 'https://chat.whatsapp.com/HN10MUmIruNISqt0yG1uRG'
 global.sig = 'https://chat.whatsapp.com/HN10MUmIruNISqt0yG1uRG'
 global.web = 'https://chat.whatsapp.com/HN10MUmIruNISqt0yG1uRG'
